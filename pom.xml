@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
+<<<<<<< HEAD
     <artifactId>java2</artifactId>
+=======
+    <artifactId>java3</artifactId>
+>>>>>>> fda5abd (Initial commit)
     <version>1.0-SNAPSHOT</version>
 
     <properties>
